@@ -1,5 +1,5 @@
 import { createClient } from './supabase'
-import type { Session } from '@repo/types'
+import type { Session } from './types'
 
 // ============================================================
 // AUTH
